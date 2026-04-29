@@ -1,0 +1,71 @@
+#content {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    margin: 0;
+    color: white;
+    background-color:#140a27;
+    width: 1170px;
+    height: 2532px;
+}
+#time {
+    font-family: "Roboto", sans-serif;
+    margin: 4%;
+    margin-top: 10%;
+    background-color: #342654;
+    width: 90%;
+    height: 5%;
+    border-radius: 30px;
+    font-size: 35px;
+}
+#valid {
+    font-weight: 500;
+    float: left;
+    margin: 4%;
+}
+#valid #circle {
+    margin-top: 6px;
+    margin-left: 20px;
+    position: absolute;
+}
+#valid p {
+    position: relative;
+    float: right;
+    top: -30px;
+    left: 74px;
+}
+#clock {
+    float: right;
+    margin: 4%;
+}
+video {
+    margin-left: 5%;
+    border-radius: 20px;
+}
+#bottom {
+    position: relative;
+    top: 200px;
+    left: 33%;
+    background-color: #342654;
+    width: 27%;
+    height: 160px;
+    border-radius: 80px;
+}
+#bottom .svg{
+    position: relative;
+    float: left;
+    top: 8px;
+    left: 10px;
+    border-radius: 50%;
+    height: 90%;
+    width: 47%;
+    padding: 0;
+    background-color: #543ade;
+
+}
+.svg svg {
+    margin: 30px;
+}
+#inactive {
+    background-color: #342654!important;
+}
