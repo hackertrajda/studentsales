@@ -17,7 +17,7 @@ html {
     margin-top: 10%;
     background-color: #342654;
     width: 90%;
-    height: 5%;
+    height: 6%;
     border-radius: 15px;
     font-size: 13px;
 }
@@ -54,7 +54,7 @@ video {
 }
 #bottom {
     position: relative;
-    top: 6%;
+    top: 3%;
     left: 35%;
     background-color: #342654;
     width: 30%;
