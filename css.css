@@ -14,7 +14,7 @@ html {
 #time {
     font-family: "Roboto", sans-serif;
     margin: 5%;
-    margin-top: 10%;
+    margin-top: 5%;
     background-color: #342654;
     width: 90%;
     height: 6%;
@@ -54,7 +54,7 @@ video {
 }
 #bottom {
     position: relative;
-    top: 3%;
+    top: 4.5%;
     left: 35%;
     background-color: #342654;
     width: 30%;
