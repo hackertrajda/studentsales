@@ -40,12 +40,12 @@ html {
     position: relative;
     border-radius: 50px;
     float: right;
-    top: -10px;
+    top: -11px;
     left: 43px;
 }
 #clock {
     float: right;
-    margin: 4%;
+    margin: 4.5%;
 }
 video {
     margin-left: 5%;
