@@ -28,10 +28,10 @@ html {
 }
 #valid #arrow {
     position: relative;
-    top: -3px;
+    top: 0px;
 }
 #valid #circle {
-    margin-top: 0px;
+    margin-top: 3px;
     margin-left: 20px;
     position: absolute;
 }
@@ -40,12 +40,12 @@ html {
     position: relative;
     border-radius: 50px;
     float: right;
-    top: -13px;
+    top: -10px;
     left: 43px;
 }
 #clock {
     float: right;
-    margin: 3.8%;
+    margin: 4%;
 }
 video {
     margin-left: 5%;
